@@ -1,4 +1,4 @@
-# Added undo operations
+# Added the ability to cancel operations
 import asyncio
 
 
